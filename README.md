@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>Hi, I’m Priyansh Jain, a Frontend Web Developer (Fresher) who enjoys building clean, simple, and well-organized web interfaces. I like working on layouts that feel easy to use, balanced, and comfortable for everyone, no matter the device or screen size.<br><br>I pay close attention to spacing, alignment, and structure because I believe a good interface should feel smooth and natural, not confusing or heavy. I enjoy turning simple ideas into clean frontend pages that look neat and work properly.<br><br>🔭 I’m currently working on<br><br>I am currently working on frontend practice projects using HTML, CSS, and JavaScript. These projects help me improve my layout sense, responsive design skills, and basic user interactions using the DOM.<br><br>👯 I’m looking to collaborate on<br><br>I’m open to collaborating with other learners and developers on frontend projects. I enjoy working in a positive and friendly environment where ideas are shared, designs are improved together, and everyone grows while building something useful.<br><br>🤝 I’m looking for help with<br><br>I’m looking for guidance in improving my JavaScript understanding, DOM logic, and basic backend concepts like PHP and MySQL. I like learning step by step and understanding things clearly instead of rushing through them.<br><br>🌱 I’m currently learning<br><br>I’m currently learning JavaScript in more depth, DOM handling, and basic animations. Along with frontend, I’m also learning PHP and MySQL, and improving my UI planning skills using Figma and Canva.<br><br>💬 Ask me about<br><br>You can ask me about HTML, CSS, responsive layouts, basic JavaScript, frontend structure, and clean UI design.<br><br>⚡ Fun fact<br><br>I enjoy refining small UI details because even tiny changes can make a website feel much better to use.
 
-<!--
-**priyanshJain543/priyanshJain543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/priyanshjain_543/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyansh-jain-b4b557260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshjain0507@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=priyanshJain543&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=priyanshJain543&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshJain543&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
