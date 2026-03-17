@@ -1,7 +1,7 @@
-# 👋 Hello, I am Priyansh Jain
+👋 Hello, I am Priyansh Jain
 
 ---
-# 💫 About Me:
+💫 About Me:
 👋 Hi, I’m Priyansh Jain, a Frontend Web Developer (Fresher) who enjoys building clean, simple, and well-organized web interfaces. I like working on layouts that feel easy to use, balanced, and comfortable for everyone, no matter the device or screen size.<br><br>I pay close attention to spacing, alignment, and structure because I believe a good interface should feel smooth and natural, not confusing or heavy. I enjoy turning simple ideas into clean frontend pages that look neat and work properly.<br><br>
 ---
 🔭 I’m currently working on<br><br>I am currently working on frontend practice projects using HTML, CSS, and JavaScript. These projects help me improve my layout sense, responsive design skills, and user interactions using the DOM.<br><br>
@@ -17,7 +17,7 @@
 ⚡ Fun fact<br><br>I enjoy refining small UI details because even tiny changes can make a website feel much better to use.
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jain-b4b557260) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/priyanshjain_543/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshjain0507@gmail.com) 
