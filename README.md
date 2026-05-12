@@ -17,7 +17,7 @@
 ⚡ Fun fact<br><br>I enjoy refining small UI details because even tiny changes can make a website feel much better to use.
 ---
 
-#🌐 Socials:
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-jain-b4b557260) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/priyanshjain_543/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshjain0507@gmail.com) 
